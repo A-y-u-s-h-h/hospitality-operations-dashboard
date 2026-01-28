@@ -5,7 +5,7 @@ End-to-end operational analytics project built to simulate **MI reporting** in h
 SQL was used to prepare and validate data; Excel was used to create KPI logic and the final dashboard.
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshots/dashboard_overview.png)
+![Dashboard](dashboard_screenshots/operations_dashboard.png)
 
 ## Data Used
 - service_requests.csv (SLA and service type performance)
