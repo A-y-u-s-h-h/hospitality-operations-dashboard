@@ -66,8 +66,8 @@ For detailed analysis and recommendations, see [`insights/key_insights.md`](insi
 
 ## Documentation
 - Helper columns: [`excel_logic/helper_columns.md`](excel_logic/helper_columns.md).
-- KPI definitions: `excel_logic/kpi_definitions.md`
-- SQL scripts: `/sql`
+- KPI definitions: [`excel_logic/kpi_definitions.md`](excel_logic/kpi_definitions.md).
+- SQL scripts: [`/sql`](/sql).
 
 ## Skills Demonstrated
 - Operational KPI design
