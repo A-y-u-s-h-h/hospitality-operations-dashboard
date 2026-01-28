@@ -67,10 +67,18 @@ Detailed KPI construction, pivot tables, and summary logic can be found in the d
 
 For detailed analysis and recommendations, see [`insights/key_insights.md`](insights/key_insights.md).
 
-## Documentation
-- Helper columns: [`excel_logic/helper_columns.md`](excel_logic/helper_columns.md).
-- KPI definitions: [`excel_logic/kpi_definitions.md`](excel_logic/kpi_definitions.md).
-- SQL scripts: [`/sql`](/sql).
+## Future Analysis & Enhancements
+
+This dashboard represents a point-in-time operational snapshot. Several extensions could further enhance its value for ongoing MI reporting:
+
+- **Multi-period trend analysis:** Extend the dashboard to cover multiple weeks or months to identify seasonal patterns and sustained performance shifts.
+- **Service-level drilldowns:** Introduce deeper analysis by priority level, request type, or shift to better isolate root causes of SLA breaches.
+- **Staff utilisation analysis:** Combine request resolution data with staff shift information to assess utilisation, idle time, and workload balance.
+- **Predictive capacity planning:** Use historical demand patterns to forecast future capacity requirements and proactively prevent shortfalls.
+- **Automation & refresh:** Migrate the model to Power BI or scheduled Excel refreshes to support recurring operational reporting.
+- **Data quality monitoring:** Add explicit KPIs to track missing timestamps, late updates, and data completeness over time.
+
+These enhancements would support a transition from descriptive reporting toward **predictive and proactive operations management**.
 
 ## Skills Demonstrated
 - Operational KPI design
@@ -79,6 +87,11 @@ For detailed analysis and recommendations, see [`insights/key_insights.md`](insi
 - SQL data preparation
 - Excel pivot modeling
 - Executive-style insight writing
+  
+## Documentation
+- Helper columns: [`excel_logic/helper_columns.md`](excel_logic/helper_columns.md).
+- KPI definitions: [`excel_logic/kpi_definitions.md`](excel_logic/kpi_definitions.md).
+- SQL scripts: [`/sql`](/sql).
 
 ## Notes
 Due to local Excel licensing restrictions, the workbook could not be exported.  
