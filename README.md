@@ -44,3 +44,44 @@ This repository provides:
 - dashboard screenshots
 - full logic documentation (SQL + Excel)
 
+## Skills Demonstrated
+- Operational KPI design
+- SLA & backlog analysis
+- Capacity planning
+- SQL data preparation
+- Excel pivot modeling
+- Executive-style insight writing
+
+## Why This Dashboard Matters
+
+This dashboard is designed to replicate real-world operational MI reporting used by hospitality operations teams to monitor service performance, staffing pressure, and SLA compliance.
+
+In high-volume service environments, operational risk rarely comes from a single failure. Instead, it accumulates through rising demand, delayed resolutions, growing backlogs, and repeated SLA breaches. This dashboard brings these signals together by combining:
+
+- Service request volumes and completion rates
+
+- Open backlog and unresolved demand
+
+- Actual vs expected resolution times
+
+- SLA breach patterns by service type
+
+- Demand vs capacity gaps over time
+
+By visualising these metrics in one view, the dashboard enables operations teams to identify pressure points early, rather than reacting after service levels have already deteriorated.
+
+The insights produced support day-to-day operational decision-making, including:
+
+- identifying underperforming services,
+
+- prioritising backlog reduction,
+
+- validating whether capacity is structurally insufficient,
+
+- informing staffing and shift planning decisions,
+
+- tracking the operational impact of process changes over time.
+
+Overall, this project reflects how data is used in operations, MI, and service performance teams,not just for reporting, but as a decision-support tool for service optimisation and continuous improvement.
+
+Built to simulate operational MI reporting used in hospitality and other large-scale service environments.
