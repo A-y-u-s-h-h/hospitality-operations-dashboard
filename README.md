@@ -65,7 +65,7 @@ Built to simulate operational MI reporting used in hospitality and other large-s
 For detailed analysis and recommendations, see [`insights/key_insights.md`](insights/key_insights.md).
 
 ## Documentation
-- Helper columns: `excel_logic/helper_columns.md`
+- Helper columns: [`excel_logic/helper_columns.md`](excel_logic/helper_columns.md).
 - KPI definitions: `excel_logic/kpi_definitions.md`
 - SQL scripts: `/sql`
 
