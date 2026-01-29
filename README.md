@@ -56,7 +56,8 @@ Built to simulate operational MI reporting used in hospitality and other large-s
 - Capacity Shortfall (daily + overall)
 
 Detailed KPI construction, pivot tables, and summary logic can be found in the dashboard screenshots and Excel logic documentation.
-- KPI Summary and Pivot Table Screenshots: [`/dashboard_screenshots`](dashboard_screenshots/)
+
+**KPI Summary and Pivot Table Screenshots:** [`/dashboard_screenshots`](dashboard_screenshots/)
 
 ## Key Insights
 - Completion rate is high (88%), but SLA breach rate is equally high (88%), indicating that requests are being closed but often too late.
@@ -65,7 +66,7 @@ Detailed KPI construction, pivot tables, and summary logic can be found in the d
 - Capacity shortfall is observed on all 10 days, confirming a structural resourcing issue rather than a one-off demand spike.
 - Approximately one-third of completed requests take more than 31 minutes, contributing significantly to SLA failures.
 
-For detailed analysis and recommendations, see [`insights/key_insights.md`](insights/key_insights.md).
+**For detailed analysis and recommendations, see** [`insights/key_insights.md`](insights/key_insights.md).
 
 ## Future Analysis & Enhancements
 
